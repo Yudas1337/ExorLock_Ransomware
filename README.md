@@ -20,7 +20,7 @@
 </pre>
 
 # ExorLock Ransomware :
-ExorLock is a ransomware to lock and encrypt all files in the server and auto create index.php files to deface the websites. ExorLock Ransomware is coded in PHP 
+ExorLock is a ransomware to lock and encrypt all files in the server and auto create index.php file to deface the websites. ExorLock Ransomware is coded in PHP 
 
 # Features :
 <ul>
