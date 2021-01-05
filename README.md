@@ -53,4 +53,4 @@ Greetz : Index Attacker - And All Indonesian Hackers
 
 # Preview ExorLock Ransomware :
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yudas1337/PHP_Ransomware/master/screenshot.png" alt="1" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yudas1337/ExorLock_Ransomware/master/screenshot.png" alt="1" style="max-width:100%;"></a></p>
