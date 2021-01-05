@@ -36,7 +36,7 @@ ExorLock is a ransomware to lock and encrypt all files in the server and auto cr
 <ul>
 <li>put it inside shellbackdoor so it will not encrypt your own shell!</li>
 </ul>
-
+<li>Wrong Decryption Key will not damage the file! so do not worry about it!</li>
 </ul>
 CopyRights | legal Claimers :
 
