@@ -52,5 +52,5 @@ Greetz : Index Attacker - And All Indonesian Hackers
 <li>Watch Tutorial : <a href = "https://www.youtube.com/watch?v=SAbFYlcKB1g" target = "_blank">Click Here</a></li>
 
 # Preview ExorLock Ransomware :
+![1](https://raw.githubusercontent.com/Yudas1337/ExorLock_Ransomware/master/screenshot.png)
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yudas1337/ExorLock_Ransomware/master/screenshot.png" alt="1" style="max-width:100%;"></a></p>
