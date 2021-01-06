@@ -1,6 +1,3 @@
-<meta name="og:title" content="Exorlock Ransomware"/>
-<meta name="og:image" content="https://raw.githubusercontent.com/Yudas1337/ExorLock_Ransomware/master/screenshot.png"/>
-<meta name="og:description" content="ExorLock is a ransomware to lock and encrypt all files in the server and auto create index.php file to deface the websites. ExorLock Ransomware is coded in PHP"/>
 <pre>
 <code>
    ______                _                _    
