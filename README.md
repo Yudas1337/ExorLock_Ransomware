@@ -26,6 +26,7 @@ ExorLock is a ransomware to lock and encrypt all files in the server and auto cr
 <li>Custom Deface Script</li>
 <li>Custom Encryption Key</li>
 <li>Custom Lock Extensions</li>
+<li>Custom BlackList File</li>
 <li>dual Encryption Method
 <ul>
 <li>Mcrypt Method</li>
